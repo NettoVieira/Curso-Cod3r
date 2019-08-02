@@ -26,3 +26,5 @@ console.log(algunspilotos1)
 
 const algunspilotos2 = pilotos.slice(1, 4)
 console.log(algunspilotos2)
+
+//vim aqui pra teste
